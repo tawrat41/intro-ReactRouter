@@ -16,4 +16,4 @@ const Friend = ({friend}) => {
   )
 }
 
-export default Friend
+export default Friend 
